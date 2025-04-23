@@ -1,51 +1,14 @@
 ```
+
 ██╗   ██╗ █████╗  ██████╗     ██╗  ██╗██╗███████╗███████╗██╗
 ╚██╗ ██╔╝██╔══██╗██╔═══██╗    ██║ ██╔╝██║██╔════╝██╔════╝██║
  ╚████╔╝ ███████║██║   ██║    █████╔╝ ██║███████╗███████╗██║
   ╚██╔╝  ██╔══██║██║   ██║    ██╔═██╗ ██║╚════██║╚════██║██║
    ██║   ██║  ██║╚██████╔╝    ██║  ██╗██║███████║███████║██║
    ╚═╝   ╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═╝
+
 ```                                                                                                                                                                  
-  
-<details>
-<summary>✨ **Voir l'animation ASCII** ✨</summary>
-
-```html
-<div id="ascii-animation" style="font-family: monospace; white-space: pre;"></div>
-
-<script>
-  const asciiArt = [
-    "██╗   ██╗ █████╗  ██████╗     ██╗  ██╗██╗███████╗███████╗██╗",
-    "╚██╗ ██╔╝██╔══██╗██╔═══██╗    ██║ ██╔╝██║██╔════╝██╔════╝██║",
-    " ╚████╔╝ ███████║██║   ██║    █████╔╝ ██║███████╗███████╗██║",
-    "  ╚██╔╝  ██╔══██║██║   ██║    ██╔═██╗ ██║╚════██║╚════██║██║",
-    "   ██║   ██║  ██║╚██████╔╝    ██║  ██╗██║███████║███████║██║",
-    "   ╚═╝   ╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═╝"
-  ];
-
-  const container = document.getElementById('ascii-animation');
-  let index = 0;
-
-  function animate() {
-    if (index < asciiArt.join('\n').length) {
-      container.textContent = asciiArt.join('\n').slice(0, index);
-      index++;
-      setTimeout(animate, 50); // Vitesse d'animation (50ms par caractère)
-    }
-  }
-
-  animate();
-</script>
-<style>
-  #ascii-animation {
-    background: #1a1a1a;
-    padding: 20px;
-    border-radius: 5px;
-    color: #00ff00; // Couleur "terminal"
-  }
-</style>
-</details> ```                                                                                                                                                                    
-                                                                                                                                                                        
+                                                                                                                                                       
 `$ whoami`
 ```
 Frontend Developer
@@ -84,7 +47,7 @@ BACKEND:    Express Js | SQL |
 TOOLS:      GIT | OOP | DOCKER
 EXPLORING:  Creative Dev
 ```
-`$ ls ~/projects`
+`$ Tree ~/projects`
 ```
 ├── Wiflixx/
 │   └── Little web app to see movies trailer
@@ -123,7 +86,7 @@ EXPLORING:  Creative Dev
 ```
 
 ```
-┌─────────────── MOST LANGUAGES & FRAMEWORKS USED ───────────────┐
+┌─────────────── MOST USED LANGUAGES & FRAMEWORKS ───────────────┐
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaokissi&layout=compact&theme=radical)
