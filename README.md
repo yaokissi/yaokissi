@@ -38,7 +38,7 @@ Frontend Developer
 
 `$ cat about.txt`
 ```
-Front-end developer passionate about creating beautiful user interfaces & web app.
+Front-end developer passionate about creating beautiful user interfaces & web/mobiles applications.
 ```
 `$ tech --list-all`
 ```
