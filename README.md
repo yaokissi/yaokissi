@@ -67,8 +67,8 @@ EXPLORING:  Creative Dev
 ```
 ┌─────────────── Github Stats ───────────────┐
 ```
-
 ![Yao Kissi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaokissi&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaokissi&layout=compact&theme=radical)
 
 ```
 └────────────────────────────────────────────┘
@@ -86,13 +86,7 @@ EXPLORING:  Creative Dev
 ```
 
 ```
-┌─────────────── MOST USED LANGUAGES & FRAMEWORKS ───────────────┐
-```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaokissi&layout=compact&theme=radical)
-
-```
-└────────────────────────────────────────────────────────────────┘
 ```
 
 `$ cat coming_soon.txt`
