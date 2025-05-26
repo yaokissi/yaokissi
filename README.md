@@ -57,8 +57,9 @@ EXPLORING
 ```
 `Creative Dev`
 
-`$ graph --github`
-
+```
+FUN GITHUB GRAPH
+```
 <div>
  <img src = "assets/github-user-contribution.svg">
 </div>
