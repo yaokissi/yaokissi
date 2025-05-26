@@ -8,7 +8,7 @@
 ```                                                                                                                                                    
 `$ whoami`
 ```
-Frontend Developer - 
+Frontend lover & Web Developer 
 ``` 
 <!-- [![wakatime](https://wakatime.com/badge/user/b462dd49-ab75-443e-95a6-9ddccef7267d.svg)](https://wakatime.com/@@yaokissi) -->
 
