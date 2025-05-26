@@ -29,12 +29,12 @@ FRONTEND
 ```
 BACKEND   
 ```
-`Express Js` `SQL` 
+`Express Js` `SQL` `PHP`
 
 ```
 TOOLS
 ```    
-`GIT` `OOP` `DOCKER`
+`GIT` `JEST` `OOP` `DOCKER`
 
 
 ```
