@@ -1,18 +1,16 @@
 ```
-
 ██╗   ██╗ █████╗  ██████╗     ██╗  ██╗██╗███████╗███████╗██╗
 ╚██╗ ██╔╝██╔══██╗██╔═══██╗    ██║ ██╔╝██║██╔════╝██╔════╝██║
  ╚████╔╝ ███████║██║   ██║    █████╔╝ ██║███████╗███████╗██║
   ╚██╔╝  ██╔══██║██║   ██║    ██╔═██╗ ██║╚════██║╚════██║██║
    ██║   ██║  ██║╚██████╔╝    ██║  ██╗██║███████║███████║██║
    ╚═╝   ╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚═╝
-
-```                                                                                                                                                                  
-                                                                                                                                                       
+```                                                                                                                                                    
 `$ whoami`
 ```
-Frontend Developer
-```
+Frontend Developer - 
+``` 
+<!-- [![wakatime](https://wakatime.com/badge/user/b462dd49-ab75-443e-95a6-9ddccef7267d.svg)](https://wakatime.com/@@yaokissi) -->
 
 `$ contact --list`
 
@@ -20,20 +18,6 @@ Frontend Developer
 - [LinkedIn](https://www.linkedin.com/in/yao-kissi/)
 - [yaokissi.pro@gmail.com](mailto:yaokissi.pro@gmail.com)
 
-  <div align="center"> 
-  <a href="mailto:yaokissi.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Contact me-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
- 
-  <a href="https://www.linkedin.com/in/yao-kissi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
-
-  <a href="https://ydev-eight.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-0C00BF?style=for-the-badge&logo=sveltdotjs&logoColor=white" target="_blank" />
-  </a>
-</div>
 
 `$ tech --list-all`
 
@@ -52,13 +36,9 @@ TOOLS
 ```    
 `GIT` `OOP` `DOCKER`
 
-```
-EXPLORING
-```
-`Creative Dev`
 
 ```
-FUN GITHUB GRAPH
+FUN GRAPH
 ```
 <div>
  <img src = "assets/github-user-contribution.svg">
