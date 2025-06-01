@@ -29,7 +29,7 @@ FRONTEND
 ```
 BACKEND   
 ```
-`Express Js` `SQL` `PHP`
+`Express Js` `SQL` `PHP` `MySql`
 
 ```
 TOOLS
