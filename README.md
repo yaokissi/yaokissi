@@ -10,7 +10,7 @@
 ```
 Frontend lover & Web Developer 
 ```
-`$ coding time`
+`$ coding time since May 26 2025`
 
 [![wakatime](https://wakatime.com/badge/user/b462dd49-ab75-443e-95a6-9ddccef7267d.svg)](https://wakatime.com/@@yaokissi)
 
