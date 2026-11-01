@@ -26,17 +26,17 @@ Frontend lover & Web Developer
 ```
 FRONTEND  
 ```  
-`Svelte` `Vue.js` `JavaScript` `Tailwind` `HTML5` `CSS3`
+`Svelte` `Vue.js` `Typescript` `Tailwind` 
 
 ```
 BACKEND   
 ```
-`Nest Js` `Next Js` `Express Js` `MySql`
+`Next Js` `Nest Js` `MySql`
 
 ```
 TOOLS
 ```    
-`GIT` `Vitest` `OOP` `DOCKER` 
+`GIT` `GITHUB ACTION` `CI/CD` `DOCKER` `OOP`
 
 
 ```
